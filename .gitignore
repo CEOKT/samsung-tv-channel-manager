@@ -1,0 +1,42 @@
+# Python önbellekleri
+__pycache__/
+*.py[cod]
+*$py.class
+
+# TV Kanal Listeleri & Kişisel Cihaz Yedekleri
+*.zip
+*.scm
+*.bin
+.device_info*
+Channel_list_*
+
+# Geçici ve Çalışma Klasörleri
+extracted/
+extracted_dual/
+processed/
+processed_dual/
+processed_final/
+
+# Üçüncü Parti Büyük İkili Dosyalar (ChanSort)
+ChanSort/
+ChanSort.zip
+
+# Geliştirici Geçici Test Dosyaları
+inspect_*.py
+check_*.py
+dump_*.py
+find_*.py
+print_*.py
+simulate_*.py
+update_*.py
+add_missing_channels.py
+filter_clean_turkish.py
+do_auto_sort.py
+list_channels.py
+process_dual_scan.py
+
+# IDE ve İşletim Sistemi Dosyaları
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

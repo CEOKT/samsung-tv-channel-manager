@@ -1,0 +1,44 @@
+================================================================================
+     SAMSUNG SMART TV OTOMATİK KANAL SIRALAMA VE TEMİZLEME KILAVUZU
+================================================================================
+
+Bu rehber, Samsung televizyonunuzdaki kanalları otomatik olarak 1'den başlayarak
+dizmek ve şifreli/çöp kanalları temizlemek için hazırlanmıştır.
+
+Masaüstünüzde "Samsung Kanal Düzenleyici" adında kısayol hazırlandı!
+
+--------------------------------------------------------------------------------
+ADIM 1: KANAL LİSTESİNİ TELEVİZYONDAN ALMA (10 SANİYE)
+--------------------------------------------------------------------------------
+1. USB belleği (E: sürücüsü) Samsung TV'nizin USB girişine takın.
+2. TV kumandasından [Menü] veya [Ayarlar] tuşuna basın.
+3. [Yayın] (Broadcasting) menüsüne girin.
+4. [Uzman Ayarları] bölümünü açın.
+5. [Kanal Listesini Aktarın] seçeneğine tıklayın.
+6. [USB'ye Ver / Dışa Aktar] seçeneğini seçin.
+   (PIN kodu sorarsa varsayılan kod: 0000 yani dört sıfırdır)
+7. Ekranda "Kanal listesi aktarıldı" uyarısı çıkınca USB'yi TV'den çıkarın.
+
+--------------------------------------------------------------------------------
+ADIM 2: BİLGİSAYARDA DÜZENLEME VE GEREKSİZLERİ SİLME
+--------------------------------------------------------------------------------
+1. USB belleği bilgisayarınıza takın.
+2. Masaüstündeki "Samsung Kanal Düzenleyici" programını açın.
+3. Program USB belleğinizi ve içindeki ".scm" kanal dosyasını otomatik tanır.
+4. "Kanal Listesini Düzenle" butonuna basın. (Orijinal listenizin yedeği otomatik alınır)
+5. Açılan ekranda (ChanSort):
+   - Şifreli, çöp veya istemediğiniz kanalları seçip klavyeden [Delete] veya sağ tık [Sil] ile silin.
+   - Kanalları Türk kanalları sırasına göre sürükleyip 1, 2, 3... şeklinde dizin.
+   - İşlem bitince sol üstten [Dosya] -> [Kaydet] (Ctrl+S) yapın.
+   - Dosya doğrudan USB belleğe geri kaydedilir!
+
+--------------------------------------------------------------------------------
+ADIM 3: TELEVİZYONA GERİ YÜKLEME
+--------------------------------------------------------------------------------
+1. USB belleği televizyonunuza geri takın.
+2. TV kumandasından: [Ayarlar] -> [Yayın] -> [Uzman Ayarları] -> [Kanal Listesini Aktarın].
+3. Bu kez [USB'den Al / İçe Aktar] seçeneğini seçin.
+4. PIN: 0000 girin.
+5. TV birkaç saniye içinde kanalları güncelleyecek ve yeniden başlatacaktır.
+   Artık kanallarınız mükemmel sırada ve tüm çöpler temizlenmiş olacaktır!
+================================================================================
